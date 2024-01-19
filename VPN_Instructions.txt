@@ -1,0 +1,18 @@
+To Connect to the VPN (Hamachi):
+
+1.) visit https://vpn.net/linux on your virtualbox browser
+
+2.) Download the package that ends with ".deb"
+
+3.) Run this command: sudo dpkg -i logmein-hamachi_*.deb
+
+4.) Run this command: sudo apt-get install -f
+
+5.) Run this command: sudo hamachi login
+
+6.)Finally, Run this command: sudo hamachi join VULN vuln123
+
+This will add you to a private network
+
+Once you finish I should be able to see your IP and allow access to POSTGRESQL server
+
