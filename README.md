@@ -2,19 +2,25 @@
 # V.U.L.N
 Malware Detection Application Designed and Developed by the V.U.L.N Team for CSC190
 =======
-# vuln
+Using MVC architecture with tools like PostgreSQL, Flask, and Flutter 
+V.U.L.N was designed to secure your Linux OS from malicious software using 
+an OpenSource ClamAV Engine at its core. 
 
-A new Flutter project.
+## Preview
 
-## Getting Started
+![Start Page](https://github.com/JustinHennis1/VULN/blob/7546a3676d2c0c5cb1a5be9d679c5e21fd0ac408/vulnshowcase1.png)
 
-This project is a starting point for a Flutter application.
+![Scanning Page](https://github.com/JustinHennis1/VULN/blob/7546a3676d2c0c5cb1a5be9d679c5e21fd0ac408/vulnshowcase2.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Quick & Simple File Selection](https://github.com/JustinHennis1/VULN/blob/7546a3676d2c0c5cb1a5be9d679c5e21fd0ac408/vulnshowcase3.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Tested With Eicar File](https://github.com/JustinHennis1/VULN/blob/7546a3676d2c0c5cb1a5be9d679c5e21fd0ac408/vulnshowcase4.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Output Result](https://github.com/JustinHennis1/VULN/blob/7546a3676d2c0c5cb1a5be9d679c5e21fd0ac408/vulnshowcase5.png)
+
+![After Quarantining](https://github.com/JustinHennis1/VULN/blob/7546a3676d2c0c5cb1a5be9d679c5e21fd0ac408/vulnshowcase6.png)
+
+![Settings and Scheduled Scan](https://github.com/JustinHennis1/VULN/blob/7546a3676d2c0c5cb1a5be9d679c5e21fd0ac408/vulnshowcase7.png)
+
+
+
